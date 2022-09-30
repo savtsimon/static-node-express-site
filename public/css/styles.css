@@ -92,6 +92,10 @@ a {
   border-bottom: 1px solid #eaeaea;
 }
 
+.error {
+  height: 100vh;
+}
+
 .box h1,
 .box h6 {
   margin: 0 auto 8px;
