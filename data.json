@@ -9,7 +9,7 @@
                 "CSS",
                 "Javascript"
             ],
-            "live_link": "/static/projects/project1/index.html",
+            "live_link": "https://savtsimon.github.io/random-quote-generator/",
             "github_link": "https://github.com/savtsimon/random-quote-generator",
             "image_urls": [
                 "/static/images/project1_thumbnail.png",
@@ -27,7 +27,7 @@
                 "CSS",
                 "Javascript"
             ],
-            "live_link": "/static/projects/project2/index.html",
+            "live_link": "https://savtsimon.github.io/data-pagination-and-filtering/",
             "github_link": "https://github.com/savtsimon/data-pagination-and-filtering",
             "image_urls": [
                 "/static/images/project2_thumbnail.png",
@@ -46,7 +46,7 @@
                 "Javascript",
                 "Accessibility"
             ],
-            "live_link": "/static/projects/project3/index.html",
+            "live_link": "https://savtsimon.github.io/interactive-form/",
             "github_link": "https://github.com/savtsimon/interactive-form",
             "image_urls": [
                 "/static/images/project3_thumbnail.png",
@@ -64,7 +64,7 @@
                 "CSS",
                 "Javascript"
             ],
-            "live_link": "/static/projects/project4/index.html",
+            "live_link": "https://savtsimon.github.io/oop-game-show-app/",
             "github_link": "https://github.com/savtsimon/oop-game-show-app",
             "image_urls": [
                 "/static/images/project4_thumbnail.png",
@@ -84,7 +84,7 @@
                 "Fetch",
                 "Public APIs"
             ],
-            "live_link": "/static/projects/project5/index.html",
+            "live_link": "https://savtsimon.github.io/public-api-requests/",
             "github_link": "https://github.com/savtsimon/public-api-requests",
             "image_urls": [
                 "/static/images/project5_thumbnail.png",

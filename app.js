@@ -15,8 +15,10 @@ app.get("/about", (req, res) => {
     res.render("about")
 })
 
-app.get("/project:id", (req, res, next) => {
+app.get("/project/:id", (req, res, next) => {
+    // extract the id from the request params
     let id = req.params.id - 1
+    // Checks if id's corresponding project exists - if it does, renders page, and if not, moves to error handling
     if (id < projects.length & id >= 0) {
         let project = projects[id]
         res.render("project", { project })
@@ -34,7 +36,7 @@ app.use((req, res, next) => {
 })
 
 // Global error handler
-// Renders the error template with the error status and message
+// Depending on error status code, renders the error or page-not-found templates with the error status and message
 app.use((err, req, res, next) => {
     console.log(`${err.message} - Status: ${err.status}`)
     if (err.status === 404) {
