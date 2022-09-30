@@ -1,0 +1,97 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "project_name": "Random Quote Generator",
+            "description": "Displays random quotes at the click of a button. This app displays a new random quote every 20 seconds and the background color changes with each new quote.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link": "/static/projects/project1/index.html",
+            "github_link": "https://github.com/savtsimon/random-quote-generator",
+            "image_urls": [
+                "/static/images/project1_thumbnail.png",
+                "/static/images/project1_1.png",
+                "/static/images/project1_2.png",
+                "/static/images/project1_3.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Data Pagination and Filtering",
+            "description": "Displays cards with functional pagination and search bar filtering.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link": "/static/projects/project2/index.html",
+            "github_link": "https://github.com/savtsimon/data-pagination-and-filtering",
+            "image_urls": [
+                "/static/images/project2_thumbnail.png",
+                "/static/images/project2_1.png",
+                "/static/images/project2_2.png",
+                "/static/images/project2_3.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Interactive Form",
+            "description": "Displays a form with client-side validation, interactivity, and accessibility.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Accessibility"
+            ],
+            "live_link": "/static/projects/project3/index.html",
+            "github_link": "https://github.com/savtsimon/interactive-form",
+            "image_urls": [
+                "/static/images/project3_thumbnail.png",
+                "/static/images/project3_1.png",
+                "/static/images/project3_2.png",
+                "/static/images/project3_3.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "OOP Game Show App",
+            "description": "This app is an interactive game to guess the letters for a random hidden phrase. Each correct letter chosen is displayed in the phrase, and highlighted green on the onscreen keyboard. Each incorrect letter chosen removes a life from the 5 given lives, and is highlighted red on the onscreen keyboard. If all the correct letters are guessed, a winner screen is displayed. If all 5 lives are lost, a loser screen is displayed. Both the onscreen and physical keyboards can be used to input letters.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link": "/static/projects/project4/index.html",
+            "github_link": "https://github.com/savtsimon/oop-game-show-app",
+            "image_urls": [
+                "/static/images/project4_thumbnail.png",
+                "/static/images/project4_1.png",
+                "/static/images/project4_2.png",
+                "/static/images/project4_3.png"
+            ]
+        },
+        {
+            "id": 5,
+            "project_name": "Public API Requests",
+            "description": "Displays a directory of individuals fetched from the randomuser.io API. This app includes search bar filtering and a detailed pop up display of each individual.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Fetch",
+                "Public APIs"
+            ],
+            "live_link": "/static/projects/project5/index.html",
+            "github_link": "https://github.com/savtsimon/public-api-requests",
+            "image_urls": [
+                "/static/images/project5_thumbnail.png",
+                "/static/images/project5_1.png",
+                "/static/images/project5_2.png",
+                "/static/images/project5_3.png"
+            ]
+        }
+    ]
+}
